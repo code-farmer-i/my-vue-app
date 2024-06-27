@@ -1,0 +1,65 @@
+{
+  "id": "1262557",
+  "name": "百果园-UED平台",
+  "font_family": "pd-icon",
+  "css_prefix_text": "pd-icon-",
+  "description": "百果园UED平台项目",
+  "glyphs": [
+    {
+      "icon_id": "10550564",
+      "name": "QR code",
+      "font_class": "QRcode",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "10183538",
+      "name": "Default Avatar",
+      "font_class": "avatar",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "9788283",
+      "name": "question",
+      "font_class": "question",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "9568491",
+      "name": "Angle hook",
+      "font_class": "anglehook",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "9568492",
+      "name": "Retract",
+      "font_class": "retract",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "9568493",
+      "name": "Open",
+      "font_class": "open",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "9568494",
+      "name": "reduction",
+      "font_class": "reduction",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "9568495",
+      "name": "Full screen",
+      "font_class": "fullscreen",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    }
+  ]
+}
